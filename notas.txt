@@ -1,0 +1,10 @@
+quando estamos usnado context apenas queremos apenas que 
+ele fike em um lugar manipulando os dados entao colocamos 
+dentro da pasta context
+
+existem diferentes tipos de context podemos manipular blog posts 
+imagens ,comentarios entao devemos criar um context para cada um deles 
+exatamente quando tivermos que prover esses dados para componentes filhos muito
+aninhados 
+
+vou usar quando precisar mover esses datos
